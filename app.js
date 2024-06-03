@@ -11,7 +11,7 @@ let checkbox=document.createElement('input')
 checkbox.type='checkbox'
 let para=document.createElement('p')
 let button=document.createElement('button')
-button.innerText='delete'
+button.innerText='Delete'
 para.innerHTML=input
 todolistitems.classList.add('todo-flex')
 checkbox.classList.add('box')
